@@ -70,7 +70,8 @@ The Movie Recommendation Engine is designed to enhance the movie-watching experi
 ## Contact Info
 If you have any questions or feedback, feel free to reach out:
 
-[LinkedIn](https://linkedin.com/in/mayank_yadv)
+[LinkedIn](https://linkedin.com/in/mayankyadv)
+
 [GitHub](https://github.com/mayankyadav23)
 
 ###### To run this project, ensure you have Python installed along with the required libraries. You can install the necessary libraries using pip:
